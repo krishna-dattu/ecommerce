@@ -54,6 +54,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Payment 
+#Output
+![Screenshot 2024-03-07 200032](https://github.com/krishna-dattu/ecommerce/assets/132872315/411d9afc-50b7-4ae0-9f8a-77e36db54407)
+![Screenshot 2024-03-07 200017](https://github.com/krishna-dattu/ecommerce/assets/132872315/df1351c9-b558-4dd4-8c3e-2ae4e13ecf74)
+![Screenshot 2024-03-07 195957](https://github.com/krishna-dattu/ecommerce/assets/132872315/cb39f73f-176c-4ea4-9a2a-415d96438f06)
+![Screenshot 2024-03-07 195939](https://github.com/krishna-dattu/ecommerce/assets/132872315/b2e65c09-8e04-4608-91f1-18d196cd17c9)
+
 
 For the payment service (for the onCheckout() ), we will use the stripe service 
 ```yarn add @stripe/stripe-js``` and add this in our index.html <scripts/>
